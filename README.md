@@ -1,10 +1,8 @@
 # skccdemorepo
 SK Demo Repository
 
-##
-Demo
-###
-Subject
+## Demo
+### Subject
 
 ```
 apt-get update -y
